@@ -1,0 +1,4 @@
+# Local preview and validation artifacts
+.preview/
+__pycache__/
+node_modules/
